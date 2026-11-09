@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://junghoon1118.github.io/HOONSTORE/sitemap.xml
